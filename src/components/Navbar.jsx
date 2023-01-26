@@ -11,7 +11,7 @@ const Navbar = () => {
       <Container>
         <Nav className="me-auto">
         
-          <Nav.Link to="/store" as={NavLink}>
+          <Nav.Link to="/" as={NavLink}>
             Store
           </Nav.Link>
         </Nav>
